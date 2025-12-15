@@ -15,7 +15,7 @@ Best experienced by playing.
 ## Installation
 ### 1. Clone the repository
     git clone https://github.com/CadenLau/Taeru.git
-    cd ###
+    cd Taeru
 ### 2. Create and activate virtual environment
 #### macOS/Linux
     python3 -m venv venv
