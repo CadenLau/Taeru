@@ -1,0 +1,309 @@
+{
+    "air_raid": {
+        "trigger": [
+            "Air raid sirens echo in the distance...", 
+            "Get to the shelter quickly!"
+        ],
+        "end": [
+            "It's finally over.", 
+            "At least for now..."
+        ],
+        "cannot_enter_shelter": [
+            "A vague feeling of neglect washes over you.",
+            "It keeps you from stepping into the shelter."
+        ],
+        "enter_shelter": [
+            "You huddle inside the shelter, trembling..."
+        ]
+    },
+    "food_stand": {
+        "delivery": [
+            "For me?",
+            "Thank you! My dad hasn't been doing so well."
+        ],
+        "has_rations": [
+            "Here are your rations.",
+            "Make sure to keep your sister strong."
+        ],
+        "no_rations": [
+            "That's all I can give you for now."
+        ],
+        "sister_dead": [
+            "Rations were reduced again.",
+            "You'll have to come back another day."
+        ],
+        "air_raid": [
+            "Better hurry on over to the shelter."
+        ]
+    },
+    "food_rationer": {
+        "shelter1": [
+            "Hopefully everyone got somewhere safe."
+        ],
+        "shelter2": [
+            "It's hard not to be scared."
+        ],
+        "shelter3": [
+            "Make sure to hold her tight."
+        ]
+    },
+    "sister": {
+        "opening1": [
+            "Thanks for the food.",
+            "You're always helping me."
+        ],
+        "opening2": [
+            "Do you think I'll get better?",
+            "...",
+            "I think I will."
+        ],
+        "opening3": [
+            "What if I don't?"
+        ],
+        "opening4": [
+            "I love you big brother.",
+            "But you already know that..."
+        ],
+        "opening5": [
+            "..."
+        ],
+        "opening6": [
+            "Please don't forget."
+        ],
+        "death1": [
+            "Why?"
+        ],
+        "death2": [
+            "Another life may have been kinder than this."
+        ],
+        "medicine": [
+            "Thank you.", 
+            "But will the medicine really help?"
+        ],
+        "food": [
+            "Make sure you eat too."
+        ],
+        "dialogue1": [
+            "It hurts.",
+            "Why does everything hurt?"
+        ],
+        "dialogue2": [
+            "I'm sorry.",
+            "You do so much for me.",
+            "But I do nothing for you."
+        ],
+        "dialogue3": [
+            "Please say I'll get better.",
+            "...",
+            "Please."
+        ],
+        "dialogue4": [
+            "Can we go to the park again soon?"
+        ],
+        "dialogue5": [
+            "When will we visit Mom and Dad?",
+            "We haven't gone to their graves yet."
+        ],
+        "dialogue6": [
+            "I'm so tired."
+        ],
+        "dead1": [
+            "An empty house is not a home."
+        ],
+        "dead2": [
+            "Just yesterday she was here.",
+            "Just yesterday..."
+        ]
+    },
+    "doctor": {
+        "delivering1": [
+            "Have you finished the delivery yet?"
+        ],
+        "delivering2": [
+            "I can't help her if you don't finish the delivery."
+        ],
+        "phase0": [
+            "You need medicine for your sister?", 
+            "Sorry, I can't give any out."
+        ],
+        "phase1": [
+            "Fine.",
+            "Deliver this medicine for me and I'll give you some.",
+            "Take this to the old lady."
+        ],
+        "phase2": [
+            "Thanks for doing that.",
+            "Now take this to the guy who runs the rations stand."
+        ],
+        "phase3": [
+            "I've got one more delivery for you to do.",
+            "Give this to that boy who likes to hang around these parts."
+        ],
+        "phase4": [
+            "Alright, alright.",
+            "I actually need one more delivery.",
+            "This one is for the guy with the big eyes."
+        ],
+        "phase5": [
+            "...",
+            "One more delivery.",
+            "...",
+            "Calm down, I'm serious this time.",
+            "Your sister will get her medicine.",
+            "I just forgot to give the old lady her other meds."
+        ],
+        "phase6": [
+            "Thanks for all the help.",
+            "Here's the medicine, this should help her."
+        ],
+        "delivered1": [
+            "Sorry, I can't spare any more medicine.",
+            "You'll have to figure something out on your own."
+        ],
+        "delivered2": [
+            "I can't help you anymore.",
+            "I'm sure she'll be just fine."
+        ],
+        "shelter1": [
+            "Even during an air raid your sister looks well.",
+            "She probably doesn't even need my help."
+        ],
+        "shelter2": [
+            "Bit stuffy down here."
+        ],
+        "sister_dead": [
+            "I heard what happened.",
+            "I'm sorry.",
+            "I wish I could've helped."
+        ],
+        "air_raid": [
+            "What are you doing here?!",
+            "Go to the shelter!"
+        ]
+    },
+    "elderly_lady": {
+        "delivery1": [
+            "Much thanks for the medicine darling.",
+            "This old lady's bones don't have much longer.",
+            "Make sure that stingy doctor actually pays you."
+        ],
+        "delivery2": [
+            "More medicine?",
+            "You're such a kind young man."
+        ],
+        "dialogue1": [
+            "Might as well smile, there isn't much else to do."
+        ],
+        "dialogue2": [
+            "These aren't the end of times.",
+            "It's just the end of ours."
+        ],
+        "dialogue3": [
+            "How's your sister doing?",
+            "I hope she gets better soon.",
+            "She's such a sweet girl."
+        ],
+        "shelter1": [
+            "Stay positive.",
+            "I'm sure everything will be okay."
+        ],
+        "shelter2": [
+            "This poor boy is so scared."
+        ],
+        "sister_dead": [
+            "You poor boy.",
+            "Such a tragedy."
+        ],
+        "air_raid": [
+            "Somehow these rickety bones still get to the shelter in time."
+        ]
+    },
+    "young_boy": {
+        "delivery": [
+            "Thank you sir.",
+            "I hope Mama gets better."
+        ],
+        "dialogue1": [
+            "Where's your sister?",
+            "I want to play again."
+        ],
+        "dialogue2": [
+            "Fighting seems bad.",
+            "Papa says this is all worth it."
+        ],
+        "dialogue3": [
+            "Mama was able to eat this morning.",
+            "What about your sister?"
+        ],
+        "shelter1": [
+            "Do you think Mama and Papa are safe?"
+        ],
+        "shelter2": [
+            "I'm so scared."
+        ],
+        "sister_dead": [
+            "I miss her.",
+            "Do you think that'll happen to Mama?"
+        ],
+        "air_raid": [
+            "The sirens are so loud."
+        ]
+    },
+    "dude": {
+        "delivery": [
+            "Huh?",
+            "Oh, right.",
+            "Can't forget to take my medicine."
+        ],
+        "dialogue1": [
+            "..."
+        ],
+        "dialogue2": [
+            "Who are you again?"
+        ],
+        "dialogue3": [
+            "Things have been tough lately.",
+            "The war should be over soon."
+        ],
+        "shelter1": [
+            "What's happening?."
+        ],
+        "shelter2": [
+            "Who is she?"
+        ],
+        "sister_dead": [
+            "Are you okay?",
+            "You seem a little off."
+        ],
+        "air_raid": [
+            "Is that the shelter?",
+            "It's so hard to remember."
+        ]
+    },
+    "ending": {
+        "zero": [
+            "You don't need a siren anymore, this feeling is familiar."
+        ],
+        "one": [
+            "Your steps feel heavier than they used to."
+        ],
+        "two": [
+            "You had been fighting for something."
+        ],
+        "three": [
+            "But what are you fighting for now?"
+        ],
+        "four": [
+            "Still, there must be a point to it all."
+        ],
+        "five": [
+            "If there weren't, why would you be trying so hard?"
+        ],
+        "six": [
+            "There's a reason for living."
+        ],
+        "seven": [
+            "There must be."
+        ]
+    }
+}
