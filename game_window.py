@@ -24,4 +24,5 @@ class GameWindow(arcade.Window):
 
     def on_key_press(self, symbol, modifiers):
         if symbol == arcade.key.ESCAPE:
-            self.toggle_fullscreen()
+            self.toggle_fullscreen() # for macOS
+            # arcade.close_window() # for Windows
